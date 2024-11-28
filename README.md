@@ -17,11 +17,11 @@ Senior Business Analyst
 NetApp Oct 2020 - May 2021, Bengaluru, India
 
 
-
 Quality Analyst
 Deluxe India Nov 2016 - Oct 2020, Bengaluru, India
 
 
-
 Freelance QC Engineer
 Deluxe India Dec 2015 - Nov 2016, Bengaluru, India
+
+## Projects
