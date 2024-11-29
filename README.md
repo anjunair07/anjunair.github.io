@@ -9,7 +9,7 @@ Business Intelligence Analyst (EMEA Risk and Control)
 Citibank May 2023 - Jul 2024, London, UK
 
 
-Team Lead - Tableau Developer (Financial Market Operations - Analytics)
+Tableau Developer (Financial Market Operations - Analytics)
 Standard Chartered Bank May 2021 - Dec 2021, Bengaluru, India
 
 
